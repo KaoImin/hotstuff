@@ -6,8 +6,8 @@ edition = "2018"
 license = "MIT"
 include = ["Cargo.toml", "src/*", "README.md", "LICENSE", "rust-toolchain"]
 readme = "README.md"
-keywords = ["consensus", "bft", "distributed-systems"]
-categories = ["Algorithms", "Database interfaces"]
+keywords = ["hotstuff", "consensus", "bft", "distributed-systems"]
+categories = ["algorithms"]
 repository = "https://github.com/cryptape/hotstuff"
 description = """
 HotStuff consensus procotol.
